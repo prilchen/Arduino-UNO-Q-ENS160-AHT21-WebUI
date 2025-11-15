@@ -132,7 +132,7 @@ Das Dashboard im Browser:
 - Responsives Design für Desktop und Mobile
 - Zeitstempel der letzten Aktualisierung
 
-![Luftqualität Dashboard](https://prilchen.de/wp-content/uploads/2025/11/Bildschirmfoto-2025-11-09-um-15.42.32.png)
+![Luftqualität Dashboard](https://prilchen.de/wp-content/uploads/2025/11/image-23-300x237.png)
 
 ## 📖 Tutorial und weitere Informationen
 
@@ -146,11 +146,6 @@ Das Tutorial behandelt:
 - LED Matrix Anzeige als Alternative
 - Mini-PC Betrieb mit Debian Linux
 - Remote-Zugriff und SSH-Konfiguration
-
-### Weitere Arduino UNO Q Projekte
-
-1. **[LED Matrix Scrolltext](../Arduino-UNO-Q-LED-Matrix-Scrolltext)** - Laufschrift auf der 12x8 LED Matrix
-2. **[ENS160/AHT21 LED Matrix](../Arduino-UNO-Q-ENS160-AHT21-LED-Matrix)** - Sensorwerte als Lauftext anzeigen
 
 ## 🔍 Sensoren-Details
 
