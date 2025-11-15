@@ -31,7 +31,8 @@ Dieses Projekt nutzt beide Welten optimal:
 
 ```
 Arduino-UNO-Q-ENS160-AHT21-WebUI/
-├── sketch.ino          # C++ Sketch für MCU (Sensorauslese)
+├── sketch/
+│   └── sketch.ino          # C++ Sketch für MCU (Sensorauslese)
 ├── python/
 │   └── main.py        # Python Webserver für MPU
 ├── assets/
