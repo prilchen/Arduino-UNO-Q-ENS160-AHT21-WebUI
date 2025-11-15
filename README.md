@@ -4,7 +4,7 @@
 
 Dieses Projekt zeigt die Leistungsfähigkeit des Arduino UNO Q durch die Kombination von Echtzeit-Sensorauslesung (MCU) und einem modernen Web-Dashboard (MPU). Luftqualitätswerte werden live über eine WebUI im Browser angezeigt.
 
-![Arduino UNO Q](https://prilchen.de/wp-content/uploads/2025/11/Bildschirmfoto-2025-11-09-um-13.33.13-1536x1066.png)
+![Arduino UNO Q](https://prilchen.de/wp-content/uploads/2025/11/image-7.png)
 
 ## 📋 Projektübersicht
 
